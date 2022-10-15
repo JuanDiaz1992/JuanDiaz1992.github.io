@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef121a49.css",
+    "main.js": "/static/js/main.3a83a9b7.js",
+    "static/media/Romofyi2.mp4": "/static/media/Romofyi2.4935a9ca6264acb4937a.mp4",
+    "static/media/Render11.png": "/static/media/Render11.17c1b722c6823ebca590.png",
+    "static/media/Corporativo.jpg": "/static/media/Corporativo.99dcb04adf43592b1aa5.jpg",
+    "static/media/Juan Camilo Diaz Valencia HV .pdf": "/static/media/Juan Camilo Diaz Valencia HV .943d4867ec67a268b877.pdf",
+    "static/media/Banner.webp": "/static/media/Banner.c1fe63ec4399b26d255f.webp",
+    "static/media/Corel.webp": "/static/media/Corel.50538a612c7c4b8b4bbf.webp",
+    "static/media/Cinema4D.webp": "/static/media/Cinema4D.6817c009c968f7cc3deb.webp",
+    "static/media/React.webp": "/static/media/React.33c839ada7c12f6a9c61.webp",
+    "static/media/Python.webp": "/static/media/Python.ecaada6a8030081a12d2.webp",
+    "static/media/AdobeXd.webp": "/static/media/AdobeXd.a2e0b898b66049801156.webp",
+    "static/media/Illustrator.webp": "/static/media/Illustrator.3eb90cfdf9a931a62946.webp",
+    "static/media/PhotoShop.webp": "/static/media/PhotoShop.af06360818bffa2f7d42.webp",
+    "index.html": "/index.html",
+    "static/media/Figma.webp": "/static/media/Figma.071cbe86ce855967b14d.webp",
+    "main.ef121a49.css.map": "/static/css/main.ef121a49.css.map",
+    "main.3a83a9b7.js.map": "/static/js/main.3a83a9b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef121a49.css",
+    "static/js/main.3a83a9b7.js"
+  ]
+}
