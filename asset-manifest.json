@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.66bcdfc4.css",
-    "main.js": "/static/js/main.ecf28a96.js",
+    "main.css": "/static/css/main.75005c3f.css",
+    "main.js": "/static/js/main.6aa0c956.js",
     "static/media/video3.mp4": "/static/media/video3.3e27dcdc1fc7cfec35b9.mp4",
     "static/media/video1.2.mp4": "/static/media/video1.2.71638d0d536f14f713c5.mp4",
     "static/media/Romofyi2.mp4": "/static/media/Romofyi2.4935a9ca6264acb4937a.mp4",
@@ -9,13 +9,19 @@
     "static/media/Corporativo.jpg": "/static/media/Corporativo.99dcb04adf43592b1aa5.jpg",
     "static/media/img3.jpg": "/static/media/img3.d36cf43458d373b45dda.jpg",
     "static/media/Juan Camilo Diaz Valencia HV .pdf": "/static/media/Juan Camilo Diaz Valencia HV .c9c09cfc02f92c4a05fa.pdf",
-    "static/media/img1.jpg": "/static/media/img1.effabd91bf2f77d0ef44.jpg",
+    "static/media/img1.jpg": "/static/media/img1.2ec2d2f7317f3cdf13b5.jpg",
     "static/media/video2.1.mp4": "/static/media/video2.1.0c218b28a264db20687d.mp4",
     "static/media/img5.1.jpg": "/static/media/img5.1.fda1f2aae80819f38fd7.jpg",
     "static/media/img4.jpg": "/static/media/img4.beb6163b9d974aef00dd.jpg",
     "static/media/img2.jpg": "/static/media/img2.595c9a79bd7dc4c1b61e.jpg",
     "static/media/iconoGesthor.webp": "/static/media/iconoGesthor.50192bcbdc68d5ab098f.webp",
     "static/media/Banner.webp": "/static/media/Banner.c1fe63ec4399b26d255f.webp",
+    "static/media/Dani.jpg": "/static/media/Dani.c80f367a38bbf6fd499a.jpg",
+    "static/media/PAE.jpg": "/static/media/PAE.9460900787318d5f1b07.jpg",
+    "static/media/PaolaLeon.jpg": "/static/media/PaolaLeon.22180dae15f862c63c81.jpg",
+    "static/media/Corma.jpg": "/static/media/Corma.99332d9afc33687995b7.jpg",
+    "static/media/Astracol.jpg": "/static/media/Astracol.39801fcf7f1cdc2e5d58.jpg",
+    "static/media/palacios.jpg": "/static/media/palacios.005f4033e1df5e9b1dc0.jpg",
     "static/media/figma.png": "/static/media/figma.72fbc535ebe253a5dbc4.png",
     "static/media/Corel.webp": "/static/media/Corel.50538a612c7c4b8b4bbf.webp",
     "static/media/Cinema4D.webp": "/static/media/Cinema4D.6817c009c968f7cc3deb.webp",
@@ -26,11 +32,11 @@
     "static/media/PhotoShop.webp": "/static/media/PhotoShop.af06360818bffa2f7d42.webp",
     "index.html": "/index.html",
     "static/media/Figma.webp": "/static/media/Figma.071cbe86ce855967b14d.webp",
-    "main.66bcdfc4.css.map": "/static/css/main.66bcdfc4.css.map",
-    "main.ecf28a96.js.map": "/static/js/main.ecf28a96.js.map"
+    "main.75005c3f.css.map": "/static/css/main.75005c3f.css.map",
+    "main.6aa0c956.js.map": "/static/js/main.6aa0c956.js.map"
   },
   "entrypoints": [
-    "static/css/main.66bcdfc4.css",
-    "static/js/main.ecf28a96.js"
+    "static/css/main.75005c3f.css",
+    "static/js/main.6aa0c956.js"
   ]
 }
